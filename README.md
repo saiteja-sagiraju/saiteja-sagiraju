@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=300&section=header&text=Sai%20Teja%20Sagiraju&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Builder%20•%20Systems%20%26%20Infrastructure%20•%20AI-Driven%20Data%20Tools&descAlignY=51&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=300&section=header&text=Sai%20Teja%20Sagiraju&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Builder%20%7C%20Systems%20and%20Infrastructure%20%7C%20AI-Driven%20Data%20Tools&descAlignY=51&descSize=20" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiteja-sagiraju)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-sagiraju-39b111384/)
